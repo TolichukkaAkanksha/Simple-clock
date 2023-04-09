@@ -1,0 +1,8 @@
+S D:\JS>  & 'C:\Program Files\Java\jdk-17\bin\java.exe' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'C:\Users\tolic\AppData\Roaming\Code\User\workspaceStorage\82831e533d2ec790827f010a1c2d5288\redhat.java\jdt_ws\JS_3d95582\bin' 'flames' 
+Enter your 1st Name:
+Akanksha
+Enter your 2nd Name:
+Sai lakshmi
+You both are Friends
+PS D:\JS> 
+
